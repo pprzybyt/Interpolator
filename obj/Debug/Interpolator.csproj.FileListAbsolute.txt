@@ -1,0 +1,9 @@
+c:\users\asus u30jc\documents\visual studio 2015\Projects\Interpolator\Interpolator\bin\Debug\Interpolator.exe.config
+c:\users\asus u30jc\documents\visual studio 2015\Projects\Interpolator\Interpolator\bin\Debug\Interpolator.exe
+c:\users\asus u30jc\documents\visual studio 2015\Projects\Interpolator\Interpolator\bin\Debug\Interpolator.pdb
+c:\users\asus u30jc\documents\visual studio 2015\Projects\Interpolator\Interpolator\obj\Debug\Interpolator.csprojResolveAssemblyReference.cache
+c:\users\asus u30jc\documents\visual studio 2015\Projects\Interpolator\Interpolator\obj\Debug\Interpolator.exe
+c:\users\asus u30jc\documents\visual studio 2015\Projects\Interpolator\Interpolator\obj\Debug\Interpolator.pdb
+C:\Users\Asus U30JC\Desktop\Github\Interpolator\bin\Debug\Interpolator.exe.config
+C:\Users\Asus U30JC\Desktop\Github\Interpolator\obj\Debug\Interpolator.exe
+C:\Users\Asus U30JC\Desktop\Github\Interpolator\obj\Debug\Interpolator.pdb
